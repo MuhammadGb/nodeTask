@@ -32,7 +32,7 @@ Ensure that you have the following installed on your system:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/MuhammadGB/your-repository.git
+    git clone https://github.com/MuhammadGB/nodeTask.git
     ```
 
 2. Change into the project directory:
